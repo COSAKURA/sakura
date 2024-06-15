@@ -111,10 +111,6 @@ export default {
 
 <style scoped>
 
-@font-face {
-  font-family: 'CakeCafe';
-  src: url('@/assets/style/fonts/Cakecafe.ttf');
-}
 
 #app {
   position: absolute;
