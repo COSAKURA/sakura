@@ -1,3 +1,5 @@
+// 引用全局样式
+import '@/assets/style/globle.css'
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
