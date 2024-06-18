@@ -9,6 +9,7 @@ export default {
         require('@/assets/image/login-bg2.jpg'),
         require('@/assets/image/login-bg3.jpg'),
         require('@/assets/image/login-bg4.jpg'),
+          require('@/assets/image/bg-1.jpg')
       ],
       // 抽屉
       registerDrawer: false,
@@ -117,7 +118,7 @@ export default {
   height: 100vh;
   width: 100vw;
   overflow: hidden;
-  background: url("@/assets/image/login-bg3.jpg");
+  background: url("@/assets/image/bg-2.png");
   background-size: cover;
 }
 
